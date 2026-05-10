@@ -1,0 +1,220 @@
+successfully added Accused 1
+successfully added Accused 2
+successfully added Accused 3
+successfully added Accused 4
+successfully added Accused 5
+successfully added Accused 6
+successfully added Accused 7
+Accused details: Accused [id =7, FirstName=Laura, LastName=Neal, BirthDate=Sun Dec 13 00:00:00 IST 1998, Address=289  German Colony, PhoneNumber=001-403-137-9978x0498, Email=stevechandler@marks.com, Gender=F ,job=Jewellery designer]
+successfully added Accused 8
+successfully added Accused 9
+successfully added Accused 10
+successfully added Accused 11
+successfully added Accused 12
+successfully added Accused 13
+successfully added Accused 14
+successfully added Accused 15
+successfully added Accused 16
+successfully added Accused 17
+successfully added Accused 18
+successfully added Accused 19
+successfully added Accused 20
+successfully added Accused 21
+successfully added Accused 22
+successfully added Accused 23
+successfully added Accused 24
+successfully added Accused 25
+successfully added judge 26
+successfully added judge 27
+successfully added judge 28
+successfully added judge 29
+successfully added judge 30
+successfully added judge 31
+successfully added judge 32
+successfully added judge 33
+successfully added judge 34
+successfully added judge 35
+successfully added judge 36
+successfully added judge 37
+successfully added judge 38
+successfully added judge 39
+successfully added judge 40
+successfully added judge 41
+successfully added judge 42
+successfully added judge 43
+successfully added judge 44
+successfully added judge 45
+successfully added judge 46
+successfully added judge 47
+successfully added judge 48
+successfully added judge 49
+successfully added judge 50
+successfully added lawyer 76
+successfully added lawyer 77
+successfully added lawyer 78
+successfully added lawyer 79
+successfully added lawyer 80
+successfully added lawyer 81
+lawyer details: Lawyer [id =81, FirstName=Cynthia, LastName=Byrd, BirthDate=Thu Apr 30 00:00:00 IDT 1998, Address=289  German Colony, PhoneNumber=641.306.7539x6346, Email=leenathaniel@gmail.com, Gender=FlicenseNumber= 7660, salary=56227.84]
+successfully added lawyer 82
+successfully added lawyer 83
+successfully added lawyer 84
+successfully added lawyer 85
+successfully added lawyer 86
+successfully added lawyer 87
+successfully added lawyer 88
+successfully added lawyer 89
+successfully added lawyer 90
+successfully added lawyer 91
+successfully added lawyer 92
+successfully added lawyer 93
+successfully added lawyer 94
+successfully added lawyer 95
+successfully added lawyer 96
+successfully added lawyer 97
+successfully added lawyer 98
+successfully added lawyer 99
+successfully added department 100
+successfully added department 101
+successfully added department 102
+successfully added department 103
+successfully added department 104
+successfully added department 105
+successfully added department 106
+successfully added department 107
+successfully added department 108
+successfully added department 109
+successfully added Judge 26 to Department 100
+successfully added Judge 27 to Department 101
+successfully added Judge 28 to Department 102
+successfully added Judge 29 to Department 103
+successfully added Judge 30 to Department 104
+successfully added Judge 31 to Department 105
+successfully added Judge 32 to Department 106
+successfully added Judge 33 to Department 107
+successfully added Judge 34 to Department 108
+successfully added Judge 35 to Department 109
+successfully added Judge 36 to Department 100
+successfully added Judge 37 to Department 101
+successfully added Judge 38 to Department 102
+successfully added Judge 39 to Department 103
+successfully added Judge 40 to Department 100
+successfully added Judge 41 to Department 101
+successfully added Judge 42 to Department 102
+successfully added Judge 43 to Department 107
+successfully added Judge 44 to Department 108
+successfully added Judge 45 to Department 109
+successfully added Judge 46 to Department 100
+successfully added Judge 47 to Department 101
+successfully added Judge 48 to Department 102
+successfully added Judge 49 to Department 103
+successfully added Judge 50 to Department 104
+successfully added Judge 37 to Department 105
+successfully added Lawyer 76 to Department 106
+successfully added Lawyer 77 to Department 107
+successfully added Lawyer 78 to Department 108
+successfully added Lawyer 79 to Department 109
+successfully added Lawyer 80 to Department 100
+successfully added Lawyer 81 to Department 101
+successfully added Lawyer 82 to Department 102
+successfully added Lawyer 83 to Department 103
+successfully added Lawyer 84 to Department 104
+successfully added Lawyer 85 to Department 105
+successfully added Lawyer 86 to Department 106
+successfully added Lawyer 87 to Department 107
+successfully added Lawyer 88 to Department 108
+successfully added Lawyer 89 to Department 109
+failed to add Lawyer 90 to Department 200
+successfully added Lawyer 91 to Department 101
+successfully added Lawyer 92 to Department 102
+successfully added Lawyer 93 to Department 103
+successfully added Lawyer 94 to Department 104
+successfully added Lawyer 95 to Department 105
+successfully added Lawyer 96 to Department 106
+successfully added Lawyer 97 to Department 107
+successfully added Lawyer 98 to Department 108
+successfully added Lawyer 99 to Department 109
+successfully added Lawyer 90 to Department 100
+successfully added Case 0
+successfully added Case 1
+successfully added Case 2
+successfully added Case 3
+Case details: Case [code=3, accused=Accused [id =23, FirstName=John, LastName=Henry, BirthDate=Mon Oct 12 00:00:00 IST 1992, Address=5067Kiryat Shmuel, PhoneNumber=+1-551-454-0774x39446, Email=robert82@gmail.com, Gender=F ,job=Mental health nurse], openedDate=Sun Jun 19 00:00:00 IDT 2022, caseStatus=inProcess, caseType=realEstate, lawyer=Melissa]
+successfully added Case 4
+successfully added Case 5
+successfully added Case 6
+successfully added Case 7
+successfully added Case 8
+successfully added Case 9
+successfully added Case 10
+successfully added Case 11
+successfully added Case 12
+successfully added Case 13
+successfully added Case 14
+successfully added verdict 0
+successfully added verdict 1
+successfully added verdict 2
+successfully added verdict 3
+successfully added verdict 4
+successfully added verdict 5
+successfully added verdict 6
+successfully added verdict 7
+successfully added verdict 8
+successfully added verdict 9
+successfully added verdict 10
+successfully added verdict 11
+successfully added verdict 12
+successfully added verdict 13
+successfully added verdict 14
+successfully removed Department 100
+failed to remove Department 100
+successfully removed Lawyer 79
+successfully removed Lawyer 80
+successfully removed Judge 26
+successfully removed Judge 27
+successfully removed Judge 28
+successfully removed Judge 29
+successfully removed Judge 30
+successfully removed Verdict 2
+successfully removed Verdict 5
+successfully removed Verdict 3
+successfully removed Accused 3
+successfully removed Accused 4
+successfully removed Accused 5
+successfully removed Case 2
+successfully removed Case 14
+
+*** The amount of cases before Date is: 8
+
+*** The difference Between The Longest Case And The Shortest one is 1104 days.
+
+The Most Experienced Judge is : Judge [id =33, FirstName=Peter, LastName=Collins, BirthDate=Sun Apr 23 00:00:00 IST 1967, Address=662Downtown Haifa, PhoneNumber=+1-499-236-8065x035, Email=roy72@yahoo.com, Gender=MlicenseNumber= 7413, salary=97059.11ExperienceYear=33]
+
+*** The Accused With Max Cases By Lawyers :  
+Accused [id =1, FirstName=Caitlin, LastName=Ritter, BirthDate=Wed Mar 14 00:00:00 IST 2007, Address=32387 Martin Court Suite 700, PhoneNumber=(424)976-9780x5726, Email=hollandanthony@jones-perkins.com, Gender=M ,job="Social research officer]
+
+*** Lawyers That Work In More Than One Department *** 
+Lawyer: Lawyer [id =77, FirstName=Traci, LastName=Douglas, BirthDate=Tue Mar 11 00:00:00 IST 1997, Address=572 Joshua Valley, PhoneNumber=740-774-6583x805, Email=kylethomas@cross-ford.com, Gender=FlicenseNumber= 2493, salary=75587.19]
+Departments: [Case [code=1, accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], openedDate=Tue Apr 21 00:00:00 IDT 2020, caseStatus=finished, caseType=realEstate, lawyer=Traci], Case [code=6, accused=Accused [id =25, FirstName=Sharon, LastName=Brooks, BirthDate=Wed Oct 30 00:00:00 IST 1985, Address=32387 Martin Court, PhoneNumber=001-183-214-9882x05975, Email=huffmanmark@hotmail.com, Gender=M ,job=Broadcast presenter], openedDate=Sun Mar 10 00:00:00 IST 2024, caseStatus=finished, caseType=traffic, lawyer=Traci], Case [code=11, accused=Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant], openedDate=Mon May 08 00:00:00 IDT 2023, caseStatus=finished, caseType=family, lawyer=Traci]]
+Lawyer: Lawyer [id =76, FirstName=Sabrina, LastName=Sanders, BirthDate=Wed Dec 10 00:00:00 IST 1975, Address=769 Kiara Alley, PhoneNumber=8348109390, Email=christopher23@stout-reyes.com, Gender=FlicenseNumber= 1760, salary=86600.27]
+Departments: [Case [code=5, accused=Accused [id =24, FirstName=Jenny, LastName=Walker, BirthDate=Mon Sep 08 00:00:00 IDT 2008, Address=59928Ramat HaNasi, PhoneNumber=(786)667-5699x0542, Email=nicole99@gmail.com, Gender=M ,job=Chartered loss adjuster], openedDate=Sat Feb 27 00:00:00 IST 2021, caseStatus=finished, caseType=criminal, lawyer=Sabrina], Case [code=10, accused=Accused [id =15, FirstName=Natalie, LastName=Mccormick, BirthDate=Sun Feb 09 00:00:00 IST 2003, Address=572 Joshua Valley, PhoneNumber=(116)825-8582x87776, Email=fsilva@yahoo.com, Gender=F ,job="Accountant], openedDate=Thu Nov 12 00:00:00 IST 2020, caseStatus=finished, caseType=criminal, lawyer=Sabrina], Case [code=0, accused=Accused [id =1, FirstName=Caitlin, LastName=Ritter, BirthDate=Wed Mar 14 00:00:00 IST 2007, Address=32387 Martin Court Suite 700, PhoneNumber=(424)976-9780x5726, Email=hollandanthony@jones-perkins.com, Gender=M ,job="Social research officer], openedDate=Tue Nov 21 00:00:00 IST 2023, caseStatus=finished, caseType=damages, lawyer=Sabrina]]
+Lawyer: Lawyer [id =78, FirstName=Ashley, LastName=Castillo, BirthDate=Mon Dec 11 00:00:00 IST 1995, Address=8961German Colony, PhoneNumber=001.350.0916, Email=elizabethpeterson@ochoa.org, Gender=MlicenseNumber= 5311, salary=122684.77]
+Departments: [Case [code=7, accused=Accused [id =8, FirstName=Amy, LastName=Sellers, BirthDate=Sun Jan 12 00:00:00 IST 1997, Address=662Downtown Haifa, PhoneNumber=564.034.0354x178, Email=wjames@mahoney.com, Gender=M ,job="Accountant], openedDate=Sun Feb 14 00:00:00 IST 2021, caseStatus=finished, caseType=criminal, lawyer=Ashley], Case [code=12, accused=Accused [id =17, FirstName=Micheal, LastName=Melton, BirthDate=Sat Jan 01 00:00:00 IST 2000, Address=6104 Hadar, PhoneNumber=209.790.2509, Email=powersjessica@hotmail.com, Gender=M ,job="Psychologist], openedDate=Mon Jul 24 00:00:00 IDT 2023, caseStatus=finished, caseType=family, lawyer=Ashley], Case [code=2, accused=Accused [id =3, FirstName=Alexandra, LastName=Dorsey, BirthDate=Sat Oct 03 00:00:00 IST 1992, Address=572 Joshua Valley, PhoneNumber=(261)790-3596x520, Email=sandra89@gonzales-wright.com, Gender=M ,job=Solicitor], openedDate=Sat Mar 18 00:00:00 IST 2023, caseStatus=finished, caseType=damages, lawyer=Ashley]]
+
+*** Inactive Cases Count By Department ***
+Department number: 107 - Criminal Justice Department, Inactive Cases: 3
+Department number: 102 - Criminal Justice Department, Inactive Cases: 0
+Department number: 103 - Real Estate Department, Inactive Cases: 0
+Department number: 101 - Family Law Department, Inactive Cases: 0
+Department number: 106 - Criminal Justice Department, Inactive Cases: 3
+Department number: 108 - Civil Rights Department, Inactive Cases: 3
+Department number: 104 - Corporate Law Department, Inactive Cases: 0
+Department number: 109 - Real Estate Department, Inactive Cases: 0
+Department number: 105 - Criminal Justice Department, Inactive Cases: 0
+
+The Most Experienced Judge is : Judge [id =33, FirstName=Peter, LastName=Collins, BirthDate=Sun Apr 23 00:00:00 IST 1967, Address=662Downtown Haifa, PhoneNumber=+1-499-236-8065x035, Email=roy72@yahoo.com, Gender=MlicenseNumber= 7413, salary=97059.11ExperienceYear=33]
+*** The new manager of the department is: Judge [id =33, FirstName=Peter, LastName=Collins, BirthDate=Sun Apr 23 00:00:00 IST 1967, Address=662Downtown Haifa, PhoneNumber=+1-499-236-8065x035, Email=roy72@yahoo.com, Gender=MlicenseNumber= 7413, salary=102059.11ExperienceYear=33]
+
+*** Required Case for Lawyer 77 is: Case [code=1, accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], openedDate=Tue Apr 21 00:00:00 IDT 2020, caseStatus=finished, caseType=realEstate, lawyer=Traci]
+*** Required Case for Accused 8 is: Case [code=7, accused=Accused [id =8, FirstName=Amy, LastName=Sellers, BirthDate=Sun Jan 12 00:00:00 IST 1997, Address=662Downtown Haifa, PhoneNumber=564.034.0354x178, Email=wjames@mahoney.com, Gender=M ,job="Accountant], openedDate=Sun Feb 14 00:00:00 IST 2021, caseStatus=finished, caseType=criminal, lawyer=Ashley]
+
